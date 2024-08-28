@@ -114,7 +114,7 @@ taxa_info_cols = 19
 
 ### `--group`
 
-- `yes`: Grouping is applied to the 0th index string after splitting the sample ID by '_'. E.g., if sample ID is site1_cp1, then all site1 are grouped together.
+- `yes`: Grouping is applied to the 0th index string after splitting the sample ID by '_'. E.g., if sample ID is site1_time1, then all site1 are grouped together.
 - `no`: No grouping.
 
 ### `--n_trees`
