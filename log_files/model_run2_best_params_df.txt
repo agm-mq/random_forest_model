@@ -1,0 +1,27 @@
+Log file for random_forest_model_wwom.py script
+Start time: 2024-08-28 15:05:38 
+
+
+Random forest model settings
+Model name: model_run2
+Data type: env
+Phylogenetic selection: none
+Grouping: yes
+Number of trees: 10
+
+Split ratio: 0.12
+
+Best parameters
+n_estimators: 10
+min_samples_split: 10
+min_samples_leaf: 2
+max_features: log2
+
+Metric scores:
+Mean squared error: 3.7231
+Root mean squared error: 1.9295
+Mean absolute error: 1.8702
+Explained variance score: 0.6067
+
+End time: 2024-08-28 15:05:41.899172
+Total run time: 0 mins and 3 seconds.

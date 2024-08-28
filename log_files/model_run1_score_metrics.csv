@@ -1,0 +1,6 @@
+Metric,Score
+Mean squared error,8.3469
+Root mean squared error,2.8891
+R squared,-0.1866
+Mean absolute error,2.6843
+Explained variance score,0.1851
